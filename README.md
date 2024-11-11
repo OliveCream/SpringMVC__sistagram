@@ -37,6 +37,13 @@
 - 팔로우/팔로잉 목록 조회 및 수정
 <br>
 
+#### 게시글
+- 로그인 후 글 작성
+- 본인 게시글 수정 및 삭제
+- 게시글 좋아요
+- 게시글 댓글 및 해당 댓글 태그 후 대댓글
+<br>
+
 ## 웹 이미지
 <p align="center">
  <img src="https://github.com/user-attachments/assets/e3f971c1-9b75-4d76-9e53-3f7dbe324d40" align="center" width="45%" height="300px">
